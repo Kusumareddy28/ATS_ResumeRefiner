@@ -227,7 +227,7 @@ Analyze your resume against a given job description using different AI evaluatio
 col1, col2 = st.columns(2)
 with col1:
     # Button to trigger a general evaluation ("Tell me about my resume")
-    submit1 = st.button("Tell me about my resume")
+    submit1 = st.button("Analyze my resume")
 with col2:
     # Button to trigger a percentage match analysis
     submit2 = st.button("Percentage Match")
