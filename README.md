@@ -17,7 +17,6 @@ ATS_ResumeRefiner is a powerful AI-driven tool designed to analyze resumes and e
 - **Python**: Core programming language.
 - **Streamlit**: For building an interactive web application.
 - **Google Generative AI (Gemini)**: For AI-driven content generation.
-- **PyPDF2**: For extracting text from uploaded PDFs.
 - **pdf2image**: For converting PDF files to images.
 - **Pillow (PIL)**: For image manipulation.
 - **dotenv**: For managing API keys securely using environment variables.
@@ -31,6 +30,7 @@ Follow these steps to set up and run the project on your local machine:
 ```bash
 git clone https://github.com/yourusername/ATS_ResumeRefiner.git
 cd ATS_ResumeRefiner
+cd final-project
 ```
 
 ### 2. Create a Virtual Environment
