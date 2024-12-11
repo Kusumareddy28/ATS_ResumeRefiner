@@ -61,7 +61,7 @@ streamlit run app.py
 
 Here’s a screenshot of the application interface:
 
-![Application Interface](images/ATS_ResumeRefiner.png)
+![Application Interface](https://github.com/Kusumareddy28/ATS_ResumeRefiner/blob/main/images/ATS_ResumeRefiner.PNG)
 
 
 ---
@@ -90,4 +90,4 @@ For questions or feedback, feel free to reach out:
 
 **Author:** Kusuma Reddyvari  
 **Email:** kusumareddy28@gmail.com  
-**GitHub:** [KusumaReddyvari](https://github.com/KusumaReddyvari)
+**GitHub:** [KusumaReddyvari](https://github.com/Kusumareddy28)
