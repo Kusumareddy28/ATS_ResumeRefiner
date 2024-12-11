@@ -28,9 +28,8 @@ Follow these steps to set up and run the project on your local machine:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ATS_ResumeRefiner.git
-cd ATS_ResumeRefiner
-cd final-project
+git clone https://github.com/Kusumareddy28/ATS_ResumeRefiner
+cd ATS_ResumeRefiner\final-project
 ```
 
 ### 2. Create a Virtual Environment
