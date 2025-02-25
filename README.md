@@ -65,7 +65,7 @@ Here’s a screenshot of the application interface:
 
 ---
 
-## Future Enhancements
+## Future Enhancements 
 
 - Integrate more advanced AI models for improved analysis.
 - Add support for additional file formats (e.g., DOCX).
